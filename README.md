@@ -1,3 +1,3 @@
 # SejaQuemVoceQuiserSejaVoce
 
-## Ajuda: @fabianoomendes
+## Ajuda: ["@fabianoomendes"](https://exemplo.com/)
